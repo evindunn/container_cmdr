@@ -6,6 +6,9 @@
 docker build -t container-cmdr .
 ```
 
+Or `docker pull evindunn/container-cmdr` and use the pre-built image in 
+the following commands
+
 ## Run a command in a different container with a POST
 
 Run the server
